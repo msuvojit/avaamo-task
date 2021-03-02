@@ -1,0 +1,14 @@
+ngrok.exe
+# .env
+data 
+node_modules
+.vscode
+.idea/
+
+.env.srstore
+.env.fashor
+
+request_1.xml
+request_2.xml
+response_1.xml
+response_2.xml
